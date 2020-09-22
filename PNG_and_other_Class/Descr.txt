@@ -1,0 +1,18 @@
+With the class LoadPNG.cls you can simple load PNG-Graphics.
+Included is Alphablending and transparence.
+A sinple example is in "Simple PNG Example".
+Also included are my old classes to read TGA and PCX-Pictures
+and a new Class to read some TIF-files (only for testing).
+The Class can read uncompressed and RLE-compressed tif-files (If you had an
+procedure to read other compressed tif-files please send it to me).
+
+The inflate-procedure is from Marco v/d Berg (from PSC). Some pieces of code
+i get from the internet (PSC, activevb).
+
+The CRC-Routines (one in pure VB, one in ASM) i write out - then the class is faster.
+
+If someone can make the prog better and faster (ASM...), find a bug,
+had Descriptions from other Graphicformats (CDR...) or had
+Decompresssubs (for TIF see in TestTiff) please send it to me.
+
+alfred.koppold@freenet.de

@@ -1,0 +1,7 @@
+Die Klasse clsTiff liest manche unkomprimierte oder mit
+Packbits (RLE) komprimierte Dateien. Falls Sie die Datei
+verbessern (neu Komprimierungen, Bugs...) oder falls Sie
+Routinen zum Dekomprimieren (siehe beigelegte Beschreibung tiff)
+besitzen oder erstellen senden Sie diese bitte an
+
+alfred.koppold@freenet.de
